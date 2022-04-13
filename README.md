@@ -86,5 +86,5 @@ Outputs:
 
 - To delete all provisioned resources, run:
 ```
-$ terraform delete
+$ terraform destroy
 ```
